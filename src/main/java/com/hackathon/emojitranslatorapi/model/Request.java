@@ -1,4 +1,0 @@
-package com.hackathon.emojitranslatorapi.model;
-
-public class Request {
-}
